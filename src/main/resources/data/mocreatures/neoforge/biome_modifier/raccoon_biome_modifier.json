@@ -1,0 +1,18 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "birch_forest",
+    "dark_forest",
+    "flower_forest",
+    "forest",
+    "windswept_forest",
+    "plains",
+    "sunflower_plains"
+  ],
+  "spawners": {
+    "type": "mocreatures:raccoon",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}

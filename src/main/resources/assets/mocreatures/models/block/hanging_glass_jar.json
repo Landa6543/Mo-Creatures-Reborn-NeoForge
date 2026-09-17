@@ -1,0 +1,9 @@
+{
+  "parent": "mocreatures:custom/hanging_glass_jar",
+  "textures": {
+    "all": "mocreatures:block/glass_jar",
+    "particle": "mocreatures:block/glass_jar",
+    "0": "mocreatures:block/glass_jar"
+  },
+  "render_type": "cutout"
+}

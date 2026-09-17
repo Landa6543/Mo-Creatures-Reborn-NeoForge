@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "mocreatures:undead_scorpion_axe",
+    "mocreatures:frost_scorpion_axe",
+    "mocreatures:fire_scorpion_axe",
+    "mocreatures:earth_scorpion_axe",
+    "mocreatures:cave_scorpion_axe",
+    "mocreatures:shark_axe",
+    "mocreatures:ancient_silver_axe"
+  ]
+}

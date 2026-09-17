@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_top_left_open",
+  "textures": {
+    "particle": "mocreatures:block/door_wyvwood_lower",
+    "bottom": "mocreatures:block/door_wyvwood_lower",
+    "top": "mocreatures:block/door_wyvwood_upper"
+  },
+  "render_type": "cutout"
+}

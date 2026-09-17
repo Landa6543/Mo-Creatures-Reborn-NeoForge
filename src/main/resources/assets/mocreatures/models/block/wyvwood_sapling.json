@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "mocreatures:block/sapling_wyvwood",
+    "particle": "mocreatures:block/sapling_wyvwood"
+  },
+  "render_type": "cutout"
+}

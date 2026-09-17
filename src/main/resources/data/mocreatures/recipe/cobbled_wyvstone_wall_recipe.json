@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "mocreatures:cobbled_wyvstone"
+    }
+  },
+  "result": {
+    "id": "mocreatures:cobbled_wyvstone_wall",
+    "count": 6
+  }
+}

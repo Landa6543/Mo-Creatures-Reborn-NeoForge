@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mocreatures:block/mossy_cobblestone_wyvern_deep",
+    "up": "mocreatures:block/mossy_cobblestone_wyvern_deep",
+    "north": "mocreatures:block/mossy_cobblestone_wyvern_deep",
+    "east": "mocreatures:block/mossy_cobblestone_wyvern_deep",
+    "south": "mocreatures:block/mossy_cobblestone_wyvern_deep",
+    "west": "mocreatures:block/mossy_cobblestone_wyvern_deep",
+    "particle": "mocreatures:block/mossy_cobblestone_wyvern_deep"
+  },
+  "render_type": "solid"
+}

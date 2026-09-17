@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "mocreatures:block/wood_planks_wyvwood",
+    "particle": "mocreatures:block/wood_planks_wyvwood"
+  },
+  "render_type": "solid"
+}

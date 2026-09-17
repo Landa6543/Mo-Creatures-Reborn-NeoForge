@@ -1,0 +1,8 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "particle": "mocreatures:block/stone_wyvern_deep",
+    "texture": "mocreatures:block/stone_wyvern_deep"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "mocreatures:structure_feature",
+  "config": {
+    "structure": "mocreatures:wyvwood_tree_2",
+    "random_rotation": true,
+    "random_mirror": true,
+    "offset": [
+      -7,
+      0,
+      -6
+    ],
+    "ignored_blocks": [
+      "minecraft:air",
+      "minecraft:structure_block"
+    ]
+  }
+}

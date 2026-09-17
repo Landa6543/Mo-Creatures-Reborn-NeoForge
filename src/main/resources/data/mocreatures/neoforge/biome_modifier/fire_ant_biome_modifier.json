@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "nether_wastes",
+    "crimson_forest"
+  ],
+  "spawners": {
+    "type": "mocreatures:fire_ant",
+    "weight": 20,
+    "minCount": 3,
+    "maxCount": 4
+  }
+}

@@ -1,0 +1,147 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true
+		},
+		"sit": {
+			"loop": true,
+			"bones": {
+				"Tail": {
+					"rotation": {
+						"vector": [30, 0, 0]
+					}
+				},
+				"LegFR1": {
+					"position": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"Head1": {
+					"rotation": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"LegFL3": {
+					"position": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"BackRightLeg": {
+					"rotation": {
+						"vector": [-17.49524, 9.84655, 28.48124]
+					}
+				},
+				"BackLeftLeg": {
+					"rotation": {
+						"vector": [-17.49524, -9.84655, -28.48124]
+					}
+				},
+				"FrontRightLeg": {
+					"rotation": {
+						"vector": [22.5, 0, 0]
+					},
+					"position": {
+						"vector": [0, -1.69047, 3.62523]
+					}
+				},
+				"FrontLeftLeg": {
+					"rotation": {
+						"vector": [22.5, 0, 0]
+					},
+					"position": {
+						"vector": [0, -1.69047, 3.62523]
+					}
+				},
+				"All": {
+					"rotation": {
+						"vector": [-65, 0, 0]
+					},
+					"position": {
+						"vector": [0, -13.325, -4]
+					}
+				},
+				"Head": {
+					"rotation": {
+						"vector": [60, 0, 0]
+					},
+					"position": {
+						"vector": [0, 0.90631, 0.42262]
+					}
+				}
+			}
+		},
+		"walk": {
+			"loop": true,
+			"animation_length": 1.25,
+			"bones": {
+				"BackRightLeg": {
+					"rotation": {
+						"0.0": {
+							"vector": [30, 0, 0]
+						},
+						"0.625": {
+							"vector": [-30, 0, 0]
+						},
+						"1.25": {
+							"vector": [30, 0, 0]
+						}
+					}
+				},
+				"BackLeftLeg": {
+					"rotation": {
+						"0.0": {
+							"vector": [-30, 0, 0]
+						},
+						"0.625": {
+							"vector": [30, 0, 0]
+						},
+						"1.25": {
+							"vector": [-30, 0, 0]
+						}
+					}
+				},
+				"FrontRightLeg": {
+					"rotation": {
+						"0.0": {
+							"vector": [-30, 0, 0]
+						},
+						"0.625": {
+							"vector": [30, 0, 0]
+						},
+						"1.25": {
+							"vector": [-30, 0, 0]
+						}
+					}
+				},
+				"FrontLeftLeg": {
+					"rotation": {
+						"0.0": {
+							"vector": [30, 0, 0]
+						},
+						"0.625": {
+							"vector": [-30, 0, 0]
+						},
+						"1.25": {
+							"vector": [30, 0, 0]
+						}
+					}
+				}
+			}
+		},
+		"roar": {
+			"loop": true,
+			"bones": {
+				"Mouth": {
+					"rotation": {
+						"vector": [20, 0, 0]
+					},
+					"position": {
+						"vector": [0, -0.75, -2]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

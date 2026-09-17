@@ -1,0 +1,8 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "particle": "mocreatures:block/wood_planks_wyvwood",
+    "texture": "mocreatures:block/wood_planks_wyvwood"
+  },
+  "render_type": "solid"
+}

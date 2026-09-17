@@ -1,0 +1,14 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "nether_wastes",
+    "crimson_forest",
+    "basalt_deltas"
+  ],
+  "spawners": {
+    "type": "mocreatures:fire_scorpion",
+    "weight": 140,
+    "minCount": 1,
+    "maxCount": 2
+  }
+}

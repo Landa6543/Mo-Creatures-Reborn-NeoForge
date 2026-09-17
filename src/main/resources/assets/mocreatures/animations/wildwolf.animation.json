@@ -1,0 +1,131 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"animation_length": 4.5833,
+			"bones": {
+				"REar": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"2.0833": {
+							"vector": [0, 0, 0]
+						},
+						"2.3333": {
+							"vector": [7.38733, 1.29876, 0.08385]
+						},
+						"2.5833": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"LEar": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"2.0833": {
+							"vector": [0, 0, 0]
+						},
+						"2.3333": {
+							"vector": [7.38733, -1.29876, -0.08385]
+						},
+						"2.5833": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"FullTail": {
+					"rotation": {
+						"0.0": {
+							"vector": [-65, 0, 0]
+						},
+						"0.25": {
+							"vector": [-65, 25, 0]
+						},
+						"0.5": {
+							"vector": [-65, -25, 0]
+						},
+						"0.75": {
+							"vector": [-65, 0, 0]
+						}
+					}
+				}
+			}
+		},
+		"walk": {
+			"loop": true,
+			"animation_length": 0.8333,
+			"bones": {
+				"Leg3A": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.4167": {
+							"vector": [0, 0, 0]
+						},
+						"0.8333": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"BackRightLeg": {
+					"rotation": {
+						"0.0": {
+							"vector": [50, 0, 0]
+						},
+						"0.4167": {
+							"vector": [-30, 0, 0]
+						},
+						"0.8333": {
+							"vector": [50, 0, 0]
+						}
+					}
+				},
+				"FrontRightLeg": {
+					"rotation": {
+						"0.0": {
+							"vector": [-35, 0, 0]
+						},
+						"0.4167": {
+							"vector": [25, 0, 0]
+						},
+						"0.8333": {
+							"vector": [-35, 0, 0]
+						}
+					}
+				},
+				"BackLeftLeg": {
+					"rotation": {
+						"0.0": {
+							"vector": [-30, 0, 0]
+						},
+						"0.4167": {
+							"vector": [50, 0, 0]
+						},
+						"0.8333": {
+							"vector": [-30, 0, 0]
+						}
+					}
+				},
+				"FrontLeftLeg": {
+					"rotation": {
+						"0.0": {
+							"vector": [25, 0, 0]
+						},
+						"0.4167": {
+							"vector": [-35, 0, 0]
+						},
+						"0.8333": {
+							"vector": [25, 0, 0]
+						}
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

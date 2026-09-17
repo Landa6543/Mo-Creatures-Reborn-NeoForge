@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "mocreatures:block/sandstone_silver_top",
+    "bottom": "mocreatures:block/sandstone_silver_top",
+    "top": "mocreatures:block/sandstone_silver_top",
+    "side": "mocreatures:block/sandstone_silver_top"
+  },
+  "render_type": "solid"
+}

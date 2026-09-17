@@ -1,0 +1,22 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "river",
+    "forest",
+    "old_growth_birch_forest",
+    "flower_forest",
+    "dark_forest",
+    "birch_forest",
+    "windswept_forest",
+    "plains",
+    "sunflower_plains",
+    "beach",
+    "swamp"
+  ],
+  "spawners": {
+    "type": "mocreatures:duck",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}

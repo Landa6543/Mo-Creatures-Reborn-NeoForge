@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "mocreatures:gleaming_glass"
+    }
+  },
+  "result": {
+    "id": "mocreatures:gleaming_glass_pane",
+    "count": 16
+  }
+}

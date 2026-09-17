@@ -1,0 +1,24 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "dripstone_caves",
+    "lush_caves",
+    "deep_dark",
+    "forest",
+    "flower_forest",
+    "dark_forest",
+    "birch_forest",
+    "old_growth_birch_forest",
+    "windswept_forest",
+    "badlands",
+    "bamboo_jungle",
+    "beach",
+    "windswept_hills"
+  ],
+  "spawners": {
+    "type": "mocreatures:brown_ant",
+    "weight": 20,
+    "minCount": 3,
+    "maxCount": 4
+  }
+}

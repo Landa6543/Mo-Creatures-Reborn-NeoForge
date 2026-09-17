@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "swamp",
+    "mangrove_swamp"
+  ],
+  "spawners": {
+    "type": "mocreatures:komodo_dragon",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}

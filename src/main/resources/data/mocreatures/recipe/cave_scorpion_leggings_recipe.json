@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "mocreatures:cave_chitin"
+    },
+    "b": {
+      "item": "minecraft:golden_leggings"
+    }
+  },
+  "result": {
+    "id": "mocreatures:cave_scorpion_armor_leggings",
+    "count": 1
+  }
+}

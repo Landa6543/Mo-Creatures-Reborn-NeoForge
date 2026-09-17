@@ -1,0 +1,49 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.Fishy",
+				"texture_width": 64,
+				"texture_height": 32,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 1.5,
+				"visible_bounds_offset": [0, 0.25, 0]
+			},
+			"bones": [
+				{
+					"name": "Body",
+					"pivot": [0, 6, -1],
+					"rotation": [45, 0, 0],
+					"cubes": [
+						{"origin": [0, 1, -4.5], "size": [1, 5, 5], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "UpperFin",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "LowerFin",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "RightFin",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "LeftFin",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "Tail",
+					"pivot": [0, 3.5, 3],
+					"rotation": [45, 0, 0],
+					"cubes": [
+						{"origin": [0, 0.5, 3], "size": [1, 3, 3], "uv": [12, 0]}
+					]
+				}
+			]
+		}
+	]
+}

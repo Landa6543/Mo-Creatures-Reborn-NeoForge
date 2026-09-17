@@ -1,0 +1,86 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"LeftWing": {
+					"scale": {
+						"vector": [1, 1, 0]
+					}
+				},
+				"RightWing": {
+					"scale": {
+						"vector": [1, 1, 0]
+					}
+				}
+			}
+		},
+		"walk": {
+			"loop": true,
+			"animation_length": 0.0833,
+			"bones": {
+				"FrontLegs": {
+					"rotation": {
+						"vector": [22.5, 0, 0]
+					}
+				},
+				"MidLegs": {
+					"rotation": {
+						"vector": [-47.5, 0, 0]
+					}
+				},
+				"RearLegs": {
+					"rotation": {
+						"vector": [-25, 0, 0]
+					}
+				},
+				"LShellClosed": {
+					"rotation": {
+						"vector": [55, 0, 0]
+					}
+				},
+				"RShellClosed": {
+					"rotation": {
+						"vector": [55, 0, 0]
+					}
+				},
+				"LeftWing": {
+					"rotation": {
+						"0.0": {
+							"vector": [72.37894, 47.67865, -71.39888]
+						},
+						"0.0417": {
+							"vector": [-18.398, 30.73791, 5.50687]
+						},
+						"0.0833": {
+							"vector": [72.37894, 47.67865, -71.39888]
+						}
+					}
+				},
+				"RightWing": {
+					"rotation": {
+						"0.0": {
+							"vector": [72.37894, -47.67865, 71.39888]
+						},
+						"0.0417": {
+							"vector": [-18.398, -30.73791, -5.50687]
+						},
+						"0.0833": {
+							"vector": [72.37894, -47.67865, 71.39888]
+						}
+					}
+				},
+				"All": {
+					"rotation": {
+						"vector": [-15, 0, 0]
+					},
+					"position": {
+						"vector": [0, 2, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

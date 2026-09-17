@@ -1,0 +1,14 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "bamboo_jungle",
+    "jungle",
+    "sparse_jungle"
+  ],
+  "spawners": {
+    "type": "mocreatures:panda_bear",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 2
+  }
+}

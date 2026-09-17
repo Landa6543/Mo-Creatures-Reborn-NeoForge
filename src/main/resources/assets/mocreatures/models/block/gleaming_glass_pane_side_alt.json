@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_side_alt",
+  "textures": {
+    "particle": "mocreatures:block/glass_gleaming",
+    "edge": "mocreatures:block/glass_gleaming",
+    "pane": "mocreatures:block/glass_gleaming"
+  },
+  "render_type": "cutout"
+}

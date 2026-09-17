@@ -1,0 +1,16 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "plains",
+    "windswept_hills",
+    "windswept_gravelly_hills",
+    "snowy_plains",
+    "stony_peaks"
+  ],
+  "spawners": {
+    "type": "mocreatures:small_male_goat",
+    "weight": 20,
+    "minCount": 3,
+    "maxCount": 4
+  }
+}

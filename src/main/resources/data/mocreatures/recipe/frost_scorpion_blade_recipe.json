@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "mocreatures:frost_scorpion_stinger"
+    },
+    "b": {
+      "item": "minecraft:golden_sword"
+    },
+    "c": {
+      "item": "mocreatures:frost_chitin"
+    }
+  },
+  "result": {
+    "id": "mocreatures:frost_scorpion_blade",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "variants": {
+    "powered=false": {
+      "model": "mocreatures:block/deep_wyvstone_pressure_plate"
+    },
+    "powered=true": {
+      "model": "mocreatures:block/deep_wyvstone_pressure_plate_down"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mocreatures:block/wood_planks_wyvwood",
+    "up": "mocreatures:block/wood_planks_wyvwood",
+    "north": "mocreatures:block/wood_planks_wyvwood",
+    "east": "mocreatures:block/wood_planks_wyvwood",
+    "south": "mocreatures:block/wood_planks_wyvwood",
+    "west": "mocreatures:block/wood_planks_wyvwood",
+    "particle": "mocreatures:block/wood_planks_wyvwood"
+  },
+  "render_type": "solid"
+}

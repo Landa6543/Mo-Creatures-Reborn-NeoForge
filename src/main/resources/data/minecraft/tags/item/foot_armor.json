@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "mocreatures:undead_scorpion_armor_boots",
+    "mocreatures:frost_scorpion_armor_boots",
+    "mocreatures:fire_scorpion_armor_boots",
+    "mocreatures:earth_scorpion_armor_boots",
+    "mocreatures:cave_scorpion_armor_boots",
+    "mocreatures:ancient_silver_armor_boots",
+    "mocreatures:reptile_armor_boots",
+    "mocreatures:hide_armor_boots",
+    "mocreatures:fur_armor_boots"
+  ]
+}

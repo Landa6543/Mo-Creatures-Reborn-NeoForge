@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mocreatures:block/hanging_glass_jar"
+    },
+    "facing=east": {
+      "model": "mocreatures:block/hanging_glass_jar",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "mocreatures:block/hanging_glass_jar",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mocreatures:block/hanging_glass_jar",
+      "y": 270
+    }
+  }
+}

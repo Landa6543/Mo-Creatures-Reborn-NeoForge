@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "mocreatures:block/wood_planks_wyvwood",
+    "bottom": "mocreatures:block/wood_planks_wyvwood",
+    "top": "mocreatures:block/wood_planks_wyvwood",
+    "side": "mocreatures:block/wood_planks_wyvwood"
+  },
+  "render_type": "solid"
+}

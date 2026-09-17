@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "mocreatures:undead_scorpion_blade",
+    "mocreatures:frost_scorpion_blade",
+    "mocreatures:fire_scorpion_blade",
+    "mocreatures:earth_scorpion_blade",
+    "mocreatures:cave_scorpion_blade",
+    "mocreatures:ancient_silver_sword",
+    "mocreatures:ninja_nunchaku",
+    "mocreatures:ninja_bo_staff",
+    "mocreatures:ninja_katana",
+    "mocreatures:ninja_sai",
+    "mocreatures:shark_sword",
+    "mocreatures:held_porcupine"
+  ]
+}

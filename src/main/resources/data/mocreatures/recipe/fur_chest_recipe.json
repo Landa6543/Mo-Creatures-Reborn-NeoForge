@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "mocreatures:fur"
+    }
+  },
+  "result": {
+    "id": "mocreatures:fur_armor_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "mocreatures:dirt_scorpion_egg",
+    "mocreatures:ostrich_egg",
+    "mocreatures:shark_egg",
+    "mocreatures:cave_scorpion_egg",
+    "mocreatures:fire_scorpion_egg",
+    "mocreatures:frost_scorpion_egg",
+    "mocreatures:komodo_dragon_egg",
+    "mocreatures:fishy_egg",
+    "mocreatures:anchovy_egg",
+    "mocreatures:gold_fish_egg",
+    "mocreatures:anglerfish_egg",
+    "mocreatures:angelfish_egg",
+    "mocreatures:clownfish_egg",
+    "mocreatures:hippo_tang_egg",
+    "mocreatures:mandarinfish_egg",
+    "mocreatures:piranha_egg",
+    "mocreatures:plain_manticore_egg",
+    "mocreatures:dark_manticore_egg",
+    "mocreatures:fire_manticore_egg",
+    "mocreatures:frost_manticore_egg",
+    "mocreatures:toxic_manticore_egg",
+    "mocreatures:bass_egg"
+  ]
+}

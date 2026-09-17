@@ -1,0 +1,18 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "plains",
+    "forest",
+    "birch_forest",
+    "dark_forest",
+    "windswept_hills",
+    "savanna",
+    "desert"
+  ],
+  "spawners": {
+    "type": "mocreatures:dirt_scorpion",
+    "weight": 60,
+    "minCount": 1,
+    "maxCount": 2
+  }
+}

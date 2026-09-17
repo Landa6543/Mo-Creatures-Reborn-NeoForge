@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mocreatures:block/smooth_silver_sandstone_slab"
+    },
+    "type=top": {
+      "model": "mocreatures:block/smooth_silver_sandstone_slab_top"
+    },
+    "type=double": {
+      "model": "mocreatures:block/smooth_silver_sandstone_slab_full"
+    }
+  }
+}

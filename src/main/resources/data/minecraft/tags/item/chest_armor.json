@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "mocreatures:undead_scorpion_armor_chestplate",
+    "mocreatures:frost_scorpion_armor_chestplate",
+    "mocreatures:fire_scorpion_armor_chestplate",
+    "mocreatures:earth_scorpion_armor_chestplate",
+    "mocreatures:cave_scorpion_armor_chestplate",
+    "mocreatures:ancient_silver_armor_chestplate",
+    "mocreatures:reptile_armor_chestplate",
+    "mocreatures:hide_armor_chestplate",
+    "mocreatures:fur_armor_chestplate"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "mocreatures:undead_scorpion_stinger",
+    "mocreatures:frost_scorpion_stinger",
+    "mocreatures:fire_scorpion_stinger",
+    "mocreatures:earth_scorpion_stinger",
+    "mocreatures:cave_scorpion_stinger",
+    "mocreatures:held_porcupine"
+  ]
+}

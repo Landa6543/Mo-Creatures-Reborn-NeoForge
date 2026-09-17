@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "cd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bowl"
+    },
+    "b": {
+      "item": "mocreatures:cooked_turtle"
+    },
+    "c": {
+      "item": "minecraft:baked_potato"
+    },
+    "d": {
+      "item": "minecraft:dandelion"
+    }
+  },
+  "result": {
+    "id": "mocreatures:turtle_soup",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "mocreatures:displaysettings/fireflyjar",
+  "textures": {
+    "particle": "mocreatures:block/glass_jar"
+  }
+}

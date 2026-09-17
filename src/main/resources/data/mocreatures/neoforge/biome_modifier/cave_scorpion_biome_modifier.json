@@ -1,0 +1,14 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "deep_dark",
+    "lush_caves",
+    "dripstone_caves"
+  ],
+  "spawners": {
+    "type": "mocreatures:cave_scorpion",
+    "weight": 60,
+    "minCount": 1,
+    "maxCount": 2
+  }
+}

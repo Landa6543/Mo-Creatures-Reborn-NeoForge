@@ -1,0 +1,47 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="GPL-3.0-only"
+
+[[mods]]
+modId="mocreatures"
+version="1.0.0"
+displayName="Mo' Creatures Reborn"
+logoFile="logo.png"
+credits="Original mod created by DrZhark. Assets and features from Mo' Creatures Extended by ACGaming. Mo' Creatures Reborn developed by TomCraft20 & LanderAlo."
+authors="TomCraft20, LanderAlo"
+description='''Mo' Creatures Reborn is the spiritual successor to DrZhark's legendary Mo' Creatures mod. Rebuilt and revitalized for modern Minecraft by TomCraft20 & LanderAlo, it brings a vast ecosystem of mythical beasts, wild animals, flying mounts, tameable companions, and immersive adventures to your world.'''
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.mocreatures]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.65,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.mocreatures]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+[[dependencies.mocreatures]]
+    modId="pehkui"
+    type="optional"
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.mocreatures]]
+    modId="geckolib"
+    type="optional"
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

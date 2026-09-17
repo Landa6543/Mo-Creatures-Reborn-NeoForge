@@ -1,0 +1,263 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"OuterWingR": {
+					"rotation": {
+						"vector": [2.5, 85, 0]
+					}
+				},
+				"MidWingR": {
+					"rotation": {
+						"vector": [0, -10, 0]
+					}
+				},
+				"InnerWingR": {
+					"rotation": {
+						"vector": [0, 20, -60]
+					}
+				},
+				"InnerWing": {
+					"rotation": {
+						"vector": [0, -20, 60]
+					}
+				},
+				"MidWing": {
+					"rotation": {
+						"vector": [0, 10, 0]
+					}
+				},
+				"OuterWing": {
+					"rotation": {
+						"vector": [0, -85, 0]
+					}
+				}
+			}
+		},
+		"walk": {
+			"loop": true,
+			"animation_length": 1,
+			"bones": {
+				"LeftHindUpperLeg": {
+					"rotation": {
+						"0.0": {
+							"vector": [-25, 0, 0]
+						},
+						"0.5": {
+							"vector": [40, 0, 0]
+						},
+						"1.0": {
+							"vector": [-25, 0, 0]
+						}
+					}
+				},
+				"RightHindUpperLeg": {
+					"rotation": {
+						"0.0": {
+							"vector": [40, 0, 0]
+						},
+						"0.5": {
+							"vector": [-25, 0, 0]
+						},
+						"1.0": {
+							"vector": [40, 0, 0]
+						}
+					}
+				},
+				"LeftUpperLeg": {
+					"rotation": {
+						"0.0": {
+							"vector": [30, 0, 0]
+						},
+						"0.5": {
+							"vector": [-30, 0, 0]
+						},
+						"1.0": {
+							"vector": [30, 0, 0]
+						}
+					}
+				},
+				"RightUpperLeg": {
+					"rotation": {
+						"0.0": {
+							"vector": [-30, 0, 0]
+						},
+						"0.5": {
+							"vector": [30, 0, 0]
+						},
+						"1.0": {
+							"vector": [-30, 0, 0]
+						}
+					}
+				},
+				"OuterWingR": {
+					"rotation": {
+						"vector": [2.5, 85, 0]
+					}
+				},
+				"MidWingR": {
+					"rotation": {
+						"vector": [0, -10, 0]
+					}
+				},
+				"InnerWingR": {
+					"rotation": {
+						"vector": [0, 20, -60]
+					}
+				},
+				"InnerWing": {
+					"rotation": {
+						"vector": [0, -20, 60]
+					}
+				},
+				"MidWing": {
+					"rotation": {
+						"vector": [0, 10, 0]
+					}
+				},
+				"OuterWing": {
+					"rotation": {
+						"vector": [0, -85, 0]
+					}
+				}
+			}
+		},
+		"flight": {
+			"loop": true,
+			"animation_length": 1,
+			"bones": {
+				"LeftHindUpperLeg": {
+					"rotation": {
+						"0.0": {
+							"vector": [40, 0, 0]
+						},
+						"1.0": {
+							"vector": [40, 0, 0]
+						}
+					}
+				},
+				"RightHindUpperLeg": {
+					"rotation": {
+						"0.0": {
+							"vector": [40, 0, 0]
+						},
+						"1.0": {
+							"vector": [40, 0, 0]
+						}
+					}
+				},
+				"LeftUpperLeg": {
+					"rotation": {
+						"0.0": {
+							"vector": [25, 0, 0]
+						},
+						"1.0": {
+							"vector": [25, 0, 0]
+						}
+					}
+				},
+				"RightUpperLeg": {
+					"rotation": {
+						"0.0": {
+							"vector": [25, 0, 0]
+						},
+						"1.0": {
+							"vector": [25, 0, 0]
+						}
+					}
+				},
+				"OuterWingR": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 15]
+						},
+						"0.5": {
+							"vector": [0, 0, -12.5]
+						},
+						"1.0": {
+							"vector": [0, 0, 15]
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 1]
+						},
+						"1.0": {
+							"vector": [0, 0, 1]
+						}
+					}
+				},
+				"MidWingR": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"1.0": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"InnerWingR": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 40]
+						},
+						"0.5": {
+							"vector": [0, 0, -40]
+						},
+						"1.0": {
+							"vector": [0, 0, 40]
+						}
+					}
+				},
+				"InnerWing": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, -40]
+						},
+						"0.5": {
+							"vector": [0, 0, 40]
+						},
+						"1.0": {
+							"vector": [0, 0, -40]
+						}
+					}
+				},
+				"MidWing": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 2.5, 0]
+						},
+						"1.0": {
+							"vector": [0, 2.5, 0]
+						}
+					}
+				},
+				"OuterWing": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, -15]
+						},
+						"0.5": {
+							"vector": [0, 0, 12.5]
+						},
+						"1.0": {
+							"vector": [0, 0, -15]
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 1]
+						},
+						"1.0": {
+							"vector": [0, 0, 1]
+						}
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

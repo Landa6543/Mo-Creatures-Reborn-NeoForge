@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "mocreatures:item/earth_scorpion_axe"
+  }
+}

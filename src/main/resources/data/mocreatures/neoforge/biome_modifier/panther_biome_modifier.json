@@ -1,0 +1,19 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "birch_forest",
+    "dark_forest",
+    "flower_forest",
+    "forest",
+    "old_growth_birch_forest",
+    "windswept_forest",
+    "plains",
+    "sunflower_plains"
+  ],
+  "spawners": {
+    "type": "mocreatures:panther",
+    "weight": 70,
+    "minCount": 4,
+    "maxCount": 4
+  }
+}

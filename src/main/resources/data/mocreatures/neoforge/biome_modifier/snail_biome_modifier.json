@@ -1,0 +1,27 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "badlands",
+    "bamboo_jungle",
+    "beach",
+    "birch_forest",
+    "cherry_grove",
+    "dark_forest",
+    "deep_dark",
+    "desert",
+    "dripstone_caves",
+    "eroded_badlands",
+    "flower_forest",
+    "forest",
+    "old_growth_birch_forest",
+    "windswept_forest",
+    "lush_caves",
+    "plains"
+  ],
+  "spawners": {
+    "type": "mocreatures:snail",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 2
+  }
+}

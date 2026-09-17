@@ -1,0 +1,120 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.Dragonfly",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 1.5,
+				"visible_bounds_offset": [0, 0.25, 0]
+			},
+			"bones": [
+				{
+					"name": "Abdomen",
+					"pivot": [0, 3.5, 0],
+					"rotation": [80, 0, 0],
+					"cubes": [
+						{"origin": [-0.5, -3.5, -1], "size": [1, 7, 1], "uv": [8, 0]}
+					]
+				},
+				{
+					"name": "FrontLegs",
+					"pivot": [0, 2.5, -1.8],
+					"rotation": [5, 0, 0],
+					"cubes": [
+						{"origin": [-1, -0.5, -1.8], "size": [2, 3, 0], "uv": [0, 8]}
+					]
+				},
+				{
+					"name": "RAntenna",
+					"pivot": [-0.5, 4.3, -2.3],
+					"rotation": [-65, 40, 0],
+					"cubes": [
+						{"origin": [-1, 4.3, -3.3], "size": [1, 0, 1], "uv": [0, 7]}
+					]
+				},
+				{
+					"name": "LAntenna",
+					"pivot": [0.5, 4.3, -2.3],
+					"rotation": [-65, -40, 0],
+					"cubes": [
+						{"origin": [0, 4.3, -3.3], "size": [1, 0, 1], "uv": [4, 7]}
+					]
+				},
+				{
+					"name": "RearLegs",
+					"pivot": [0, 2, -0.4],
+					"rotation": [50, 0, 0],
+					"cubes": [
+						{"origin": [-1, -1, -0.4], "size": [2, 3, 0], "uv": [8, 8]}
+					]
+				},
+				{
+					"name": "MidLegs",
+					"pivot": [0, 2, -1.2],
+					"rotation": [32.5, 0, 0],
+					"cubes": [
+						{"origin": [-1, -1, -1.2], "size": [2, 3, 0], "uv": [4, 8]}
+					]
+				},
+				{
+					"name": "Mouth",
+					"pivot": [0, 2.9, -2.3],
+					"rotation": [-120, 0, 0],
+					"cubes": [
+						{"origin": [-0.5, 1.9, -2.3], "size": [1, 1, 1], "uv": [0, 11]}
+					]
+				},
+				{
+					"name": "WingRearRight",
+					"pivot": [-1, 4, -1],
+					"rotation": [0, 25, 0],
+					"cubes": [
+						{"origin": [-8, 4, -2], "size": [7, 0, 2], "uv": [0, 24]}
+					]
+				},
+				{
+					"name": "Thorax",
+					"pivot": [0, 4, -1],
+					"cubes": [
+						{"origin": [-1, 2, -2], "size": [2, 2, 2], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "WingFrontRight",
+					"pivot": [-1, 4, -1],
+					"rotation": [0, -10, 0],
+					"cubes": [
+						{"origin": [-8, 4, -2], "size": [7, 0, 2], "uv": [0, 28]}
+					]
+				},
+				{
+					"name": "WingFrontLeft",
+					"pivot": [1, 4, -1],
+					"rotation": [0, 10, 0],
+					"cubes": [
+						{"origin": [1, 4, -2], "size": [7, 0, 2], "uv": [0, 30]}
+					]
+				},
+				{
+					"name": "WingRearLeft",
+					"pivot": [1, 4, -1],
+					"rotation": [0, -25, 0],
+					"cubes": [
+						{"origin": [1, 4, -2], "size": [7, 0, 2], "uv": [0, 26]}
+					]
+				},
+				{
+					"name": "Head",
+					"pivot": [0, 3, -2],
+					"rotation": [-120, 0, 0],
+					"cubes": [
+						{"origin": [-1, 2, -3], "size": [2, 1, 2], "uv": [0, 4]}
+					]
+				}
+			]
+		}
+	]
+}

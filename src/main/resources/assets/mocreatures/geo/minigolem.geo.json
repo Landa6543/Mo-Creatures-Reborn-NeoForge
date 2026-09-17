@@ -1,0 +1,142 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.Mini Golem",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "Head",
+					"pivot": [0, 16, 0],
+					"rotation": [0, -45, 0],
+					"cubes": [
+						{"origin": [-3, 16, -3], "size": [6, 3, 6], "uv": [30, 0]}
+					]
+				},
+				{
+					"name": "Body",
+					"pivot": [0, 6, 0],
+					"cubes": [
+						{"origin": [-5, 6, -5], "size": [10, 10, 10], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "LeftShoulder",
+					"pivot": [5, 13, 0],
+					"cubes": [
+						{"origin": [5, 12, -1], "size": [1, 2, 2], "uv": [0, 4]}
+					]
+				},
+				{
+					"name": "LeftArm",
+					"parent": "LeftShoulder",
+					"pivot": [5, 13, 0],
+					"cubes": [
+						{"origin": [6, 3, -2], "size": [4, 12, 4], "uv": [0, 48]}
+					]
+				},
+				{
+					"name": "LeftArmRingA",
+					"parent": "LeftArm",
+					"pivot": [5, 13, 0],
+					"cubes": [
+						{"origin": [5.5, 9, -2.5], "size": [5, 3, 5], "uv": [20, 20]}
+					]
+				},
+				{
+					"name": "LeftArmRingB",
+					"parent": "LeftArm",
+					"pivot": [5, 13, 0],
+					"cubes": [
+						{"origin": [5.5, 5, -2.5], "size": [5, 3, 5], "uv": [20, 20]}
+					]
+				},
+				{
+					"name": "RightShoulder",
+					"pivot": [-5, 13, 0],
+					"cubes": [
+						{"origin": [-6, 12, -1], "size": [1, 2, 2], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "RightArm",
+					"parent": "RightShoulder",
+					"pivot": [-5, 13, 0],
+					"cubes": [
+						{"origin": [-10, 3, -2], "size": [4, 12, 4], "uv": [16, 48]}
+					]
+				},
+				{
+					"name": "RightArmRingA",
+					"parent": "RightArm",
+					"pivot": [-5, 13, 0],
+					"cubes": [
+						{"origin": [-10.5, 9, -2.5], "size": [5, 3, 5], "uv": [0, 20]}
+					]
+				},
+				{
+					"name": "RightArmRingB",
+					"parent": "RightArm",
+					"pivot": [-5, 13, 0],
+					"cubes": [
+						{"origin": [-10.5, 5, -2.5], "size": [5, 3, 5], "uv": [0, 20]}
+					]
+				},
+				{
+					"name": "RightLeg",
+					"pivot": [-2, 6, 0],
+					"cubes": [
+						{"origin": [-4.5, 0, -2], "size": [4, 6, 4], "uv": [40, 9]}
+					]
+				},
+				{
+					"name": "RightFoot",
+					"parent": "RightLeg",
+					"pivot": [-2, 6, 0],
+					"cubes": [
+						{"origin": [-4.5, 0, -3], "size": [4, 1, 1], "uv": [15, 22]}
+					]
+				},
+				{
+					"name": "LeftLeg",
+					"pivot": [2, 6, 0],
+					"cubes": [
+						{"origin": [0.5, 0, -2], "size": [4, 6, 4], "uv": [40, 19]}
+					]
+				},
+				{
+					"name": "LeftFoot",
+					"parent": "LeftLeg",
+					"pivot": [2, 6, 0],
+					"cubes": [
+						{"origin": [0.5, 0, -3], "size": [4, 1, 1], "uv": [15, 20]}
+					]
+				},
+				{
+					"name": "Block",
+					"pivot": [0, 17, 0],
+					"cubes": [
+						{
+							"origin": [-1, 16.75, -2],
+							"size": [2, 2, 2],
+							"uv": {
+								"north": {"uv": [32, 48], "uv_size": [16, 16]},
+								"east": {"uv": [32, 48], "uv_size": [16, 16]},
+								"south": {"uv": [32, 48], "uv_size": [16, 16]},
+								"west": {"uv": [32, 48], "uv_size": [16, 16]},
+								"up": {"uv": [48, 32], "uv_size": [16, 16]},
+								"down": {"uv": [48, 64], "uv_size": [16, -16]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

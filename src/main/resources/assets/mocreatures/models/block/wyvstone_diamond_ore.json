@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mocreatures:block/ore_wyvern_diamond",
+    "up": "mocreatures:block/ore_wyvern_diamond",
+    "north": "mocreatures:block/ore_wyvern_diamond",
+    "east": "mocreatures:block/ore_wyvern_diamond",
+    "south": "mocreatures:block/ore_wyvern_diamond",
+    "west": "mocreatures:block/ore_wyvern_diamond",
+    "particle": "mocreatures:block/ore_wyvern_diamond"
+  },
+  "render_type": "solid"
+}

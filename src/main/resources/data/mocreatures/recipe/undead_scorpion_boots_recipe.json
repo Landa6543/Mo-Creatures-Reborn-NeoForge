@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "mocreatures:undead_chitin"
+    },
+    "b": {
+      "item": "minecraft:golden_boots"
+    }
+  },
+  "result": {
+    "id": "mocreatures:undead_scorpion_armor_boots",
+    "count": 1
+  }
+}

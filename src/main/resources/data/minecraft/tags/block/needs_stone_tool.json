@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mocreatures:wyvstone_lapis_ore",
+    "mocreatures:wyvstone_iron_ore",
+    "mocreatures:fine_silver_block",
+    "mocreatures:ancient_silver_block"
+  ]
+}

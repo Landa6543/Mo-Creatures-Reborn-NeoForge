@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "mocreatures:undead_scorpion_armor_helmet",
+    "mocreatures:frost_scorpion_armor_helmet",
+    "mocreatures:fire_scorpion_armor_helmet",
+    "mocreatures:earth_scorpion_armor_helmet",
+    "mocreatures:cave_scorpion_armor_helmet",
+    "mocreatures:ancient_silver_armor_helmet",
+    "mocreatures:reptile_armor_helmet",
+    "mocreatures:hide_armor_helmet",
+    "mocreatures:fur_armor_helmet",
+    "mocreatures:held_porcupine"
+  ]
+}

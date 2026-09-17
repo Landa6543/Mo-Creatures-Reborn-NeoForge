@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "mocreatures:block/sandstone_silver_normal",
+    "particle": "mocreatures:block/sandstone_silver_normal"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mocreatures:block/stone_wyvern_deep",
+    "up": "mocreatures:block/stone_wyvern_deep",
+    "north": "mocreatures:block/stone_wyvern_deep",
+    "east": "mocreatures:block/stone_wyvern_deep",
+    "south": "mocreatures:block/stone_wyvern_deep",
+    "west": "mocreatures:block/stone_wyvern_deep",
+    "particle": "mocreatures:block/stone_wyvern_deep"
+  },
+  "render_type": "solid"
+}

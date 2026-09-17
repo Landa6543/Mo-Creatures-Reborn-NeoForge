@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "mocreatures:block/mossy_cobblestone_wyvern",
+    "particle": "mocreatures:block/mossy_cobblestone_wyvern"
+  },
+  "render_type": "solid"
+}

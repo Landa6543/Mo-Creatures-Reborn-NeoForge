@@ -1,0 +1,15 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "river",
+    "beach",
+    "swamp",
+    "mangrove_swamp"
+  ],
+  "spawners": {
+    "type": "mocreatures:turtle",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}

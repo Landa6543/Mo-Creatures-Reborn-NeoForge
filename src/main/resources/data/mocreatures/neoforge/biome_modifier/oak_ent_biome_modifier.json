@@ -1,0 +1,14 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "forest",
+    "flower_forest",
+    "windswept_forest"
+  ],
+  "spawners": {
+    "type": "mocreatures:oak_ent",
+    "weight": 140,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "jungle",
+    "sparse_jungle",
+    "bamboo_jungle",
+    "birch_forest",
+    "dark_forest",
+    "flower_forest",
+    "forest",
+    "old_growth_birch_forest",
+    "windswept_forest",
+    "snowy_slopes",
+    "snowy_beach",
+    "snowy_plains",
+    "snowy_taiga"
+  ],
+  "spawners": {
+    "type": "mocreatures:leopard",
+    "weight": 80,
+    "minCount": 4,
+    "maxCount": 4
+  }
+}

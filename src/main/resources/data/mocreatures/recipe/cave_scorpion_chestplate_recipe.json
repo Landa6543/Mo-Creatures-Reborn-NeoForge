@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "mocreatures:cave_chitin"
+    },
+    "b": {
+      "item": "minecraft:golden_helmet"
+    }
+  },
+  "result": {
+    "id": "mocreatures:cave_scorpion_armor_chestplate",
+    "count": 1
+  }
+}

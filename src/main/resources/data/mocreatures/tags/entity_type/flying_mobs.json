@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "mocreatures:dark_manticore",
+    "mocreatures:fire_manticore",
+    "mocreatures:frost_manticore",
+    "mocreatures:manticore",
+    "mocreatures:toxic_manticore",
+    "mocreatures:wyvern",
+    "mocreatures:nether_ostrich",
+    "mocreatures:wyvern_ostrich"
+  ]
+}

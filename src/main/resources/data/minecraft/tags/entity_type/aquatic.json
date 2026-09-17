@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "mocreatures:jellyfish",
+    "mocreatures:bass",
+    "mocreatures:piranha",
+    "mocreatures:mandarinfish",
+    "mocreatures:hippo_tang",
+    "mocreatures:clownfish",
+    "mocreatures:angelfish",
+    "mocreatures:anglerfish",
+    "mocreatures:gold_fish",
+    "mocreatures:anchovy",
+    "mocreatures:fishy",
+    "mocreatures:sting_ray",
+    "mocreatures:manta_ray",
+    "mocreatures:shark"
+  ]
+}

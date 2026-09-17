@@ -1,0 +1,6 @@
+{
+  "parent": "mocreatures:displaysettings/heldporcupine",
+  "textures": {
+    "layer0": "mocreatures:item/porcupineitem"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bab",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:string"
+    },
+    "b": {
+      "item": "mocreatures:shark_teeth"
+    }
+  },
+  "result": {
+    "id": "mocreatures:fishing_net",
+    "count": 1
+  }
+}

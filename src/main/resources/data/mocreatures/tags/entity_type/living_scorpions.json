@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mocreatures:cave_scorpion",
+    "mocreatures:dirt_scorpion",
+    "mocreatures:fire_scorpion",
+    "mocreatures:frost_scorpion"
+  ]
+}

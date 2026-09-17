@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mocreatures:block/leaves_wyvwood",
+    "particle": "mocreatures:block/leaves_wyvwood"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "mocreatures:wyvwood_log"
+    }
+  },
+  "result": {
+    "id": "mocreatures:wyvwood_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "nether_wastes",
+    "crimson_forest",
+    "basalt_deltas"
+  ],
+  "spawners": {
+    "type": "mocreatures:hell_rat",
+    "weight": 100,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}

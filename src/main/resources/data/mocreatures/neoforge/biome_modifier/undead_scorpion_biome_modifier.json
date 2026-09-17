@@ -1,0 +1,16 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "plains",
+    "forest",
+    "flower_forest",
+    "dark_forest",
+    "old_growth_birch_forest"
+  ],
+  "spawners": {
+    "type": "mocreatures:undead_scorpion",
+    "weight": 60,
+    "minCount": 1,
+    "maxCount": 2
+  }
+}

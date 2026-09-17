@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "mocreatures:ancient_silver_ingot"
+    }
+  },
+  "result": {
+    "id": "mocreatures:ancient_silver_armor_helmet",
+    "count": 1
+  }
+}

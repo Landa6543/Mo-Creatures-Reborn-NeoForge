@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mocreatures:block/dirt_wyvern",
+    "up": "mocreatures:block/grass_top_wyvern",
+    "north": "mocreatures:block/grass_side_wyvern",
+    "east": "mocreatures:block/grass_side_wyvern",
+    "south": "mocreatures:block/grass_side_wyvern",
+    "west": "mocreatures:block/grass_side_wyvern",
+    "particle": "mocreatures:block/dirt_wyvern"
+  },
+  "render_type": "solid"
+}

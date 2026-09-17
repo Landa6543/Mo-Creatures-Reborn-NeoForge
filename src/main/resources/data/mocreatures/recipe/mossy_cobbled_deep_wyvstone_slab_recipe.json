@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "mocreatures:mossy_cobbled_deep_wyvstone"
+    }
+  },
+  "result": {
+    "id": "mocreatures:mossy_cobbled_deep_wyvstone_slab",
+    "count": 6
+  }
+}

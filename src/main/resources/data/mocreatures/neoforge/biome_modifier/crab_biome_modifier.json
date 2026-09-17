@@ -1,0 +1,16 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "beach",
+    "snowy_beach",
+    "swamp",
+    "mangrove_swamp",
+    "river"
+  ],
+  "spawners": {
+    "type": "mocreatures:crab",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}

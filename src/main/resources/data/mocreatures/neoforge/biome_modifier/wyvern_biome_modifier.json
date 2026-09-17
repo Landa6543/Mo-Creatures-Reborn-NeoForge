@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "mocreatures:wyvern_lair_biome",
+  "spawners": {
+    "type": "mocreatures:wyvern",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

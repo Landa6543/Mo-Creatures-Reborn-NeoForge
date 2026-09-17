@@ -1,0 +1,1534 @@
+{
+  "raccoon_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:raccoongrunt1",
+        "stream": false
+      }
+    ]
+  },
+  "raccoon_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:raccoonhurt1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:raccoonhurt2",
+        "stream": false
+      }
+    ]
+  },
+  "raccoon_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:raccoondying",
+        "stream": false
+      }
+    ]
+  },
+  "bear_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:beargrunt1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:beargrunt2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:beargrunt3",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:beargrunt4",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:beargrunt5",
+        "stream": false
+      }
+    ]
+  },
+  "bear_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:beardeath",
+        "stream": false
+      }
+    ]
+  },
+  "bear_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:bearhurt1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:bearhurt2",
+        "stream": false
+      }
+    ]
+  },
+  "bunny_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:rabbithurt1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:rabbithurt2",
+        "stream": false
+      }
+    ]
+  },
+  "bunny_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:rabbitdeath",
+        "stream": false
+      }
+    ]
+  },
+  "bunny_lift": {
+    "sounds": [
+      {
+        "name": "mocreatures:rabbitlift",
+        "stream": false
+      }
+    ]
+  },
+  "duck_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:duck1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:duck2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:duck3",
+        "stream": false
+      }
+    ]
+  },
+  "duck_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:duckhurt1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:duckhurt2",
+        "stream": false
+      }
+    ]
+  },
+  "crocodile_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:crocgrunt1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:crocgrunt2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:crocgrunt3",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:crocgrunt4",
+        "stream": false
+      }
+    ]
+  },
+  "crocodile_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:crochurt1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:crochurt2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:crochurt3",
+        "stream": false
+      }
+    ]
+  },
+  "crocodile_jaw_snap": {
+    "sounds": [
+      {
+        "name": "mocreatures:crocjawsnap1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:crocjawsnap2",
+        "stream": false
+      }
+    ]
+  },
+  "crocodile_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:crocdying",
+        "stream": false
+      }
+    ]
+  },
+  "rat_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:ratgrunt1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:ratgrunt2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:ratgrunt3",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:ratgrunt4",
+        "stream": false
+      }
+    ]
+  },
+  "rat_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:rathurt1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:rathurt2",
+        "stream": false
+      }
+    ]
+  },
+  "rat_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:ratdying",
+        "stream": false
+      }
+    ]
+  },
+  "money": {
+    "sounds": [
+      {
+        "name": "mocreatures:mr-krabs-money",
+        "stream": false
+      }
+    ]
+  },
+  "turkey_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:turkey1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:turkey2",
+        "stream": false
+      }
+    ]
+  },
+  "turkey_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:turkeyhurt",
+        "stream": false
+      }
+    ]
+  },
+  "elephant_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:elephantgrunt1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:elephantgrunt2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:elephantgrunt3",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:elephantgrunt4",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:elephantgrunt5",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:elephantgrunt6",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:elephantgrunt7",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:elephantgrunt8",
+        "stream": false
+      }
+    ]
+  },
+  "elephant_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:elephanthurt1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:elephanthurt2",
+        "stream": false
+      }
+    ]
+  },
+  "elephant_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:elephantdying",
+        "stream": false
+      }
+    ]
+  },
+  "ostrich_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:ostrichgrunt1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:ostrichgrunt2",
+        "stream": false
+      }
+    ]
+  },
+  "ostrich_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:ostrichhurt1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:ostrichhurt2",
+        "stream": false
+      }
+    ]
+  },
+  "ostrich_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:ostrichdying",
+        "stream": false
+      }
+    ]
+  },
+  "silver_skeleton_attack": {
+    "sounds": [
+      {
+        "name": "mocreatures:attack1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:attack2",
+        "stream": false
+      }
+    ]
+  },
+  "silver_skeleton_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:death1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:death2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:death3",
+        "stream": false
+      }
+    ]
+  },
+  "silver_skeleton_step": {
+    "sounds": [
+      {
+        "name": "mocreatures:step1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:step2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:step3",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:step4",
+        "stream": false
+      }
+    ]
+  },
+  "ambient_baby_ostrich": {
+    "sounds": [
+      {
+        "name": "mocreatures:idle_baby",
+        "stream": false
+      }
+    ]
+  },
+  "scorpion_attack": {
+    "sounds": [
+      {
+        "name": "mocreatures:attack",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:sting1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:sting2",
+        "stream": false
+      }
+    ]
+  },
+  "deer_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:idle",
+        "stream": false
+      }
+    ]
+  },
+  "kitty_baby_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:idle_baby",
+        "stream": false
+      }
+    ]
+  },
+  "kitty_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:death1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:death2",
+        "stream": false
+      }
+    ]
+  },
+  "kitty_baby_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:death_baby",
+        "stream": false
+      }
+    ]
+  },
+  "kitty_angry": {
+    "sounds": [
+      {
+        "name": "mocreatures:angry1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:angry2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:angry3",
+        "stream": false
+      }
+    ]
+  },
+  "kitty_bed_pour_food": {
+    "sounds": [
+      {
+        "name": "mocreatures:pour_food",
+        "stream": false
+      }
+    ]
+  },
+  "kitty_bed_pour_milk": {
+    "sounds": [
+      {
+        "name": "mocreatures:pour_milk",
+        "stream": false
+      }
+    ]
+  },
+  "kitty_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:hurt1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:hurt2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:hurt3",
+        "stream": false
+      }
+    ]
+  },
+  "kitty_baby_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:hurt_baby1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:hurt_baby2",
+        "stream": false
+      }
+    ]
+  },
+  "ogre_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:ogrehurt",
+        "stream": false
+      }
+    ]
+  },
+  "ogre_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:ogredeath",
+        "stream": false
+      }
+    ]
+  },
+  "silver_skeleton_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:silverskeletonidle1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:silverskeletonidle2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:silverskeletonidle3",
+        "stream": false
+      }
+    ]
+  },
+  "silver_skeleton_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:silverskeletonhurt1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:silverskeletonhurt2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:silverskeletonhurt3",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:silverskeletonhurt4",
+        "stream": false
+      }
+    ]
+  },
+  "wraith_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:wraithidle1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:wraithidle2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:wraithidle3",
+        "stream": false
+      }
+    ]
+  },
+  "wraith_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:wraithhurt1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:wraithhurt2",
+        "stream": false
+      }
+    ]
+  },
+  "wraith_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:wraithdeath",
+        "stream": false
+      }
+    ]
+  },
+  "scorpion_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:scorpionidle1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:scorpionidle2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:scorpionidle3",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:scorpionidle4",
+        "stream": false
+      }
+    ]
+  },
+  "scorpion_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:scorpionhurt",
+        "stream": false
+      }
+    ]
+  },
+  "scorpion_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:scorpiondeath",
+        "stream": false
+      }
+    ]
+  },
+  "deer_baby_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:deer_idle_baby",
+        "stream": false
+      }
+    ]
+  },
+  "deer_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:deer_death",
+        "stream": false
+      }
+    ]
+  },
+  "deer_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:deer_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "kitty_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:kitty_idle1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:kitty_idle2",
+        "stream": false
+      }
+    ]
+  },
+  "snake_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:snake_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "snake_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:snake_idle1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:snake_idle2",
+        "stream": false
+      }
+    ]
+  },
+  "snake_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:snake_death",
+        "stream": false
+      }
+    ]
+  },
+  "blue_grosbeak_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:blue_grosbeak_idle1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:blue_grosbeak_idle2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:blue_grosbeak_idle3",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:blue_grosbeak_idle4",
+        "stream": false
+      }
+    ]
+  },
+  "canary_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:canary_idle1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:canary_idle2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:canary_idle3",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:canary_idle4",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:canary_idle5",
+        "stream": false
+      }
+    ]
+  },
+  "cardinal_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:cardinal_idle1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:cardinal_idle2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:cardinal_idle3",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:cardinal_idle4",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:cardinal_idle5",
+        "stream": false
+      }
+    ]
+  },
+  "crow_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:crow_idle1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:crow_idle2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:crow_idle3",
+        "stream": false
+      }
+    ]
+  },
+  "mourning_dove_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:mourning_dove_idle1",
+        "stream": false
+      }
+    ]
+  },
+  "parrot_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:parrot_idle1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:parrot_idle2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:parrot_idle3",
+        "stream": false
+      }
+    ]
+  },
+  "small_bee_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:small_bee_idle1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:small_bee_idle2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:small_bee_idle3",
+        "stream": false
+      }
+    ]
+  },
+  "small_bee_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:small_bee_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "ogre_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:ogreidle1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:ogreidle2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:ogreidle3",
+        "stream": false
+      }
+    ]
+  },
+  "cricket_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:cricket_idle",
+        "stream": false
+      }
+    ]
+  },
+  "cricket_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:cricket_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "dragonfly_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:dragonfly_idle",
+        "stream": false
+      }
+    ]
+  },
+  "dragonfly_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:dragonfly_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "drink": {
+    "sounds": [
+      {
+        "name": "mocreatures:drink",
+        "stream": false
+      }
+    ]
+  },
+  "flap": {
+    "sounds": [
+      {
+        "name": "mocreatures:flap",
+        "stream": false
+      }
+    ]
+  },
+  "fly_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:flyidle",
+        "stream": false
+      }
+    ]
+  },
+  "fly_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:flyhurt",
+        "stream": false
+      }
+    ]
+  },
+  "grasshopper_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:grasshopper_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "minigolem_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:minigolem_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "minigolem_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:minigolem_death",
+        "stream": false
+      }
+    ]
+  },
+  "lion_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:lion_idle1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:lion_idle2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:lion_idle3",
+        "stream": false
+      }
+    ]
+  },
+  "lion_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:lion_death",
+        "stream": false
+      }
+    ]
+  },
+  "lion_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:lion_hurt1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:lion_hurt2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:lion_hurt3",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:lion_hurt4",
+        "stream": false
+      }
+    ]
+  },
+  "sting": {
+    "sounds": [
+      {
+        "name": "mocreatures:sting1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:sting2",
+        "stream": false
+      }
+    ]
+  },
+  "eat": {
+    "sounds": [
+      {
+        "name": "mocreatures:eat",
+        "stream": false
+      }
+    ]
+  },
+  "mole_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:moleidle1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:moleidle2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:moleidle3",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:moleidle4",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:moleidle5",
+        "stream": false
+      }
+    ]
+  },
+  "mole_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:molehurt1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:molehurt2",
+        "stream": false
+      }
+    ]
+  },
+  "mole_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:moledeath",
+        "stream": false
+      }
+    ]
+  },
+  "mouse_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:mouseidle1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:mouseidle2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:mouseidle3",
+        "stream": false
+      }
+    ]
+  },
+  "mouse_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:mousehurt1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:mousehurt2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:mousehurt3",
+        "stream": false
+      }
+    ]
+  },
+  "mouse_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:mousedeath1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:mousedeath2",
+        "stream": false
+      }
+    ]
+  },
+  "goat_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:goatidle",
+        "stream": false
+      }
+    ]
+  },
+  "goat_baby_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:goatidle_baby",
+        "stream": false
+      }
+    ]
+  },
+  "goat_female_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:goatidle_female",
+        "stream": false
+      }
+    ]
+  },
+  "goat_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:goathurt",
+        "stream": false
+      }
+    ]
+  },
+  "goat_eat": {
+    "sounds": [
+      {
+        "name": "mocreatures:goateat",
+        "stream": false
+      }
+    ]
+  },
+  "goat_dig": {
+    "sounds": [
+      {
+        "name": "mocreatures:goatdig",
+        "stream": false
+      }
+    ]
+  },
+  "goat_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:goatdeath",
+        "stream": false
+      }
+    ]
+  },
+  "big_golem_idle": {
+    "sounds": [
+      {
+        "name": "mocreatures:big_golem_idle1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:big_golem_idle2",
+        "stream": false
+      }
+    ]
+  },
+  "big_golem_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:big_golem_clang1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:big_golem_clang2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:big_golem_hurt1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:big_golem_hurt2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:big_golem_hurt3",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:big_golem_hurt4",
+        "stream": false
+      }
+    ]
+  },
+  "big_golem_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:big_golem_death",
+        "stream": false
+      }
+    ]
+  },
+  "big_golem_step": {
+    "sounds": [
+      {
+        "name": "mocreatures:big_golem_step1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:big_golem_step2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:big_golem_step3",
+        "stream": false
+      }
+    ]
+  },
+  "wild_wolf_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:wild_wold_idle1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:wild_wold_idle2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:wild_wold_idle3",
+        "stream": false
+      }
+    ]
+  },
+  "wild_wold_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:wild_wold_hurt1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:wild_wold_hurt2",
+        "stream": false
+      }
+    ]
+  },
+  "wild_wold_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:wild_wold_death",
+        "stream": false
+      }
+    ]
+  },
+  "werewolf_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:werewolf_idle1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:werewolf_idle2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:werewolf_idle3",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:werewolf_idle4",
+        "stream": false
+      }
+    ]
+  },
+  "werewolf_transform": {
+    "sounds": [
+      {
+        "name": "mocreatures:werewolf_transform1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:werewolf_transform2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:werewolf_transform3",
+        "stream": false
+      }
+    ]
+  },
+  "werewolf_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:werewolf_hurt1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:werewolf_hurt2",
+        "stream": false
+      }
+    ]
+  },
+  "werewolf_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:werewolf_death1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:werewolf_death2",
+        "stream": false
+      }
+    ]
+  },
+  "werehuman_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:werehuman_hurt1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:werehuman_hurt2",
+        "stream": false
+      }
+    ]
+  },
+  "werehuman_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:werehuman_death1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:werehuman_death2",
+        "stream": false
+      }
+    ]
+  },
+  "wyvern_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:wyvern_idle1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:wyvern_idle2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:wyvern_idle3",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:wyvern_idle4",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:wyvern_idle5",
+        "stream": false
+      }
+    ]
+  },
+  "wyvern_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:wyvern_hurt1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:wyvern_hurt2",
+        "stream": false
+      }
+    ]
+  },
+  "wyvern_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:wyvern_death",
+        "stream": false
+      }
+    ]
+  },
+  "wyvern_step": {
+    "sounds": [
+      {
+        "name": "mocreatures:wyvern_step",
+        "stream": false
+      }
+    ]
+  },
+  "wyvern_flap": {
+    "sounds": [
+      {
+        "name": "mocreatures:wyvern_flap1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:wyvern_flap2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:wyvern_flap3",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:wyvern_flap4",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:wyvern_flap5",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:wyvern_flap6",
+        "stream": false
+      }
+    ]
+  },
+  "whip": {
+    "sounds": [
+      {
+        "name": "mocreatures:whip",
+        "stream": false
+      }
+    ]
+  },
+  "horse_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:horse_idle1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:horse_idle2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:horse_idle3",
+        "stream": false
+      }
+    ]
+  },
+  "horse_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:horse_hurt1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:horse_hurt2",
+        "stream": false
+      }
+    ]
+  },
+  "horse_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:horse_death",
+        "stream": false
+      }
+    ]
+  },
+  "horse_angry": {
+    "sounds": [
+      {
+        "name": "mocreatures:horse_angry",
+        "stream": false
+      }
+    ]
+  },
+  "ghost_horse_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:ghost_horse_idle1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:ghost_horse_idle2",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:ghost_horse_idle3",
+        "stream": false
+      }
+    ]
+  },
+  "ghost_horse_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:ghost_horse_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "ghost_horse_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:ghost_horse_death",
+        "stream": false
+      }
+    ]
+  },
+  "ghost_horse_angry": {
+    "sounds": [
+      {
+        "name": "mocreatures:ghost_horse_angry",
+        "stream": false
+      }
+    ]
+  },
+  "undead_horse_ambient": {
+    "sounds": [
+      {
+        "name": "mocreatures:undead_horse_idle1",
+        "stream": false
+      },
+      {
+        "name": "mocreatures:undead_horse_idle2",
+        "stream": false
+      }
+    ]
+  },
+  "undead_horse_hurt": {
+    "sounds": [
+      {
+        "name": "mocreatures:undead_horse_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "undead_horse_death": {
+    "sounds": [
+      {
+        "name": "mocreatures:undead_horse_death",
+        "stream": false
+      }
+    ]
+  },
+  "undead_horse_angry": {
+    "sounds": [
+      {
+        "name": "mocreatures:undead_horse_angry",
+        "stream": false
+      }
+    ]
+  }
+}

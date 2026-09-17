@@ -1,0 +1,24 @@
+# Gradle files
+.gradle/
+build/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+.vscode/
+bin/
+
+# Run directory
+run/
+run-*/
+
+# Temp files
+*.log
+temp_decompiled.jar
+*.jar
+!gradle/wrapper/gradle-wrapper.jar

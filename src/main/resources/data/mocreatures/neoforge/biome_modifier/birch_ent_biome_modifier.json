@@ -1,0 +1,16 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "forest",
+    "flower_forest",
+    "windswept_forest",
+    "birch_forest",
+    "old_growth_birch_forest"
+  ],
+  "spawners": {
+    "type": "mocreatures:birch_ent",
+    "weight": 140,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "mocreatures:fine_silver_nugget"
+    }
+  },
+  "result": {
+    "id": "mocreatures:fine_silver_ingot",
+    "count": 1
+  }
+}

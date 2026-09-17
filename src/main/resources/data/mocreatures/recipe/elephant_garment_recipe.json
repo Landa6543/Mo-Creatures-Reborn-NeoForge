@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "ddd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:gold_nugget"
+    },
+    "b": {
+      "item": "mocreatures:fur"
+    },
+    "c": {
+      "item": "mocreatures:medallion"
+    },
+    "d": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "result": {
+    "id": "mocreatures:elephant_garment",
+    "count": 1
+  }
+}

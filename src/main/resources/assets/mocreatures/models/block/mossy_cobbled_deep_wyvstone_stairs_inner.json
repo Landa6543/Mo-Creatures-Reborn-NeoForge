@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "mocreatures:block/mossy_cobblestone_wyvern_deep",
+    "bottom": "mocreatures:block/mossy_cobblestone_wyvern_deep",
+    "top": "mocreatures:block/mossy_cobblestone_wyvern_deep",
+    "side": "mocreatures:block/mossy_cobblestone_wyvern_deep"
+  },
+  "render_type": "solid"
+}

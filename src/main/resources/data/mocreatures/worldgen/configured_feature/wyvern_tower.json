@@ -1,0 +1,7 @@
+{
+  "type": "mocreatures:structure_feature",
+  "config": {
+    "structure": "mocreatures:wyvern_tower",
+    "ignored_blocks": "minecraft:structure_block"
+  }
+}

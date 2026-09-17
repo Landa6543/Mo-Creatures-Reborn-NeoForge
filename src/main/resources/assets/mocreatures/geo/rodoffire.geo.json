@@ -1,0 +1,46 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 48,
+				"texture_height": 48,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 1.5,
+				"visible_bounds_offset": [0, 0.25, 0]
+			},
+			"bones": [
+				{
+					"name": "RightArm",
+					"pivot": [-5, 6, 9],
+					"rotation": [85, -27.5, 0],
+					"cubes": [
+						{"origin": [-7, 6, 7], "size": [4, 12, 4], "uv": [32, 0]}
+					]
+				},
+				{
+					"name": "LeftArm",
+					"pivot": [5.75, 5.75, 9],
+					"rotation": [90, 27.5, 0],
+					"cubes": [
+						{"origin": [3.75, 5.75, 7], "size": [4, 12, 4], "uv": [32, 0]}
+					]
+				},
+				{
+					"name": "Staff",
+					"pivot": [0, 7, 0],
+					"cubes": [
+						{"origin": [-1, 0, -1], "size": [2, 22, 2], "uv": [0, 0]},
+						{"origin": [-2, 22, -2], "size": [4, 4, 4], "uv": [8, 0]},
+						{"origin": [-2, 21, -2], "size": [4, 1, 4], "uv": [8, 8]},
+						{"origin": [-2, 21.68404, -2.87939], "size": [4, 1, 1], "pivot": [0, 21.68404, -3.87939], "rotation": [-20, 0, 0], "uv": [18, 13]},
+						{"origin": [-2, 20.65798, 2.06031], "size": [4, 1, 1], "pivot": [0, 20.65798, 1.06031], "rotation": [20, 0, 0], "uv": [18, 15]},
+						{"origin": [1.87939, 21.68404, -2], "size": [1, 1, 4], "pivot": [3.87939, 21.68404, 0], "rotation": [0, 0, -20], "uv": [8, 13]},
+						{"origin": [-3.06031, 20.65798, -2], "size": [1, 1, 4], "pivot": [-1.06031, 20.65798, 0], "rotation": [0, 0, 20], "uv": [8, 18]}
+					]
+				}
+			]
+		}
+	]
+}

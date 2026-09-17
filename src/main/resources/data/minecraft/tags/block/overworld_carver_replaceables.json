@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "mocreatures:wyvgrass_block",
+    "mocreatures:wyvstone",
+    "mocreatures:wyvdirt"
+  ]
+}

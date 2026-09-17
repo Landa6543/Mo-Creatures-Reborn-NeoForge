@@ -1,0 +1,17 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "plains",
+    "sunflower_plains",
+    "savanna_plateau",
+    "snowy_plains",
+    "forest",
+    "windswept_hills"
+  ],
+  "spawners": {
+    "type": "mocreatures:hostile_skeleton_horse",
+    "weight": 80,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

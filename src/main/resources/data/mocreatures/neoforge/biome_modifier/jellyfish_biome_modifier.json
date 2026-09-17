@@ -1,0 +1,18 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "ocean",
+    "lukewarm_ocean",
+    "deep_ocean",
+    "warm_ocean",
+    "deep_lukewarm_ocean",
+    "deep_cold_ocean",
+    "cold_ocean"
+  ],
+  "spawners": {
+    "type": "mocreatures:jellyfish",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 4
+  }
+}

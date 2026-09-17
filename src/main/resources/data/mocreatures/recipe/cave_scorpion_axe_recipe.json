@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "bc"
+  ],
+  "key": {
+    "a": {
+      "item": "mocreatures:cave_scorpion_stinger"
+    },
+    "b": {
+      "item": "mocreatures:cave_chitin"
+    },
+    "c": {
+      "item": "minecraft:golden_axe"
+    }
+  },
+  "result": {
+    "id": "mocreatures:cave_scorpion_axe",
+    "count": 1
+  }
+}

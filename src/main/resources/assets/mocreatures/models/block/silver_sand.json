@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mocreatures:block/sand_silver",
+    "up": "mocreatures:block/sand_silver",
+    "north": "mocreatures:block/sand_silver",
+    "east": "mocreatures:block/sand_silver",
+    "south": "mocreatures:block/sand_silver",
+    "west": "mocreatures:block/sand_silver",
+    "particle": "mocreatures:block/sand_silver"
+  },
+  "render_type": "solid"
+}

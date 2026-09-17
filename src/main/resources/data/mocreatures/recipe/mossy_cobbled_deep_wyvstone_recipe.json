@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mocreatures:cobbled_deep_wyvstone"
+    },
+    {
+      "item": "mocreatures:wyvgrass"
+    }
+  ],
+  "result": {
+    "id": "mocreatures:mossy_cobbled_deep_wyvstone",
+    "count": 1
+  }
+}

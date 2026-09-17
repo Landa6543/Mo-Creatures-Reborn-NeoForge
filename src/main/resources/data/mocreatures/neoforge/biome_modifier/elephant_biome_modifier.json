@@ -1,0 +1,18 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "savanna",
+    "savanna_plateau",
+    "snowy_plains",
+    "snowy_beach",
+    "snowy_slopes",
+    "snowy_taiga",
+    "windswept_savanna"
+  ],
+  "spawners": {
+    "type": "mocreatures:elephant",
+    "weight": 20,
+    "minCount": 3,
+    "maxCount": 4
+  }
+}

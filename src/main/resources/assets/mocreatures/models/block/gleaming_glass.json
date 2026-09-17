@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mocreatures:block/glass_gleaming",
+    "up": "mocreatures:block/glass_gleaming",
+    "north": "mocreatures:block/glass_gleaming",
+    "east": "mocreatures:block/glass_gleaming",
+    "south": "mocreatures:block/glass_gleaming",
+    "west": "mocreatures:block/glass_gleaming",
+    "particle": "mocreatures:block/glass_gleaming"
+  },
+  "render_type": "translucent"
+}

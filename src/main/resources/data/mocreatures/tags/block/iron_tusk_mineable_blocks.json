@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:needs_iron_tool",
+    "#minecraft:logs",
+    "#minecraft:leaves",
+    "#minecraft:dirt",
+    "minecraft:dripstone_block",
+    "minecraft:pointed_dripstone",
+    "minecraft:tuff",
+    "minecraft:stone",
+    "minecraft:diorite",
+    "minecraft:granite",
+    "minecraft:sand",
+    "minecraft:red_sand",
+    "minecraft:gravel",
+    "minecraft:coal_ore",
+    "minecraft:deepslate_coal_ore",
+    "minecraft:calcite",
+    "minecraft:deepslate",
+    "#minecraft:needs_stone_tool",
+    "minecraft:andesite"
+  ]
+}

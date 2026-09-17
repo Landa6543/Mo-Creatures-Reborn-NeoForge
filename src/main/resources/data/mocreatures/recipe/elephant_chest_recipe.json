@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:wool"
+    },
+    "b": {
+      "item": "minecraft:chest"
+    },
+    "c": {
+      "item": "mocreatures:hide"
+    }
+  },
+  "result": {
+    "id": "mocreatures:elephant_chest",
+    "count": 1
+  }
+}

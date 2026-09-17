@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mocreatures:block/log_top_wyvwood",
+    "up": "mocreatures:block/log_top_wyvwood",
+    "north": "mocreatures:block/log_side_wyvwood",
+    "east": "mocreatures:block/log_side_wyvwood",
+    "south": "mocreatures:block/log_side_wyvwood",
+    "west": "mocreatures:block/log_side_wyvwood",
+    "particle": "mocreatures:block/log_top_wyvwood"
+  },
+  "render_type": "solid"
+}

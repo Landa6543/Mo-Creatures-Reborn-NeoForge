@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "mocreatures:toxic_manticore",
+    "mocreatures:frost_manticore",
+    "mocreatures:hostile_skeleton_horse",
+    "mocreatures:hostile_zombie_horse",
+    "mocreatures:fire_wraith",
+    "mocreatures:wraith",
+    "mocreatures:silver_skeleton"
+  ]
+}

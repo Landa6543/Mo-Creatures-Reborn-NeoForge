@@ -1,0 +1,14 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "dripstone_caves",
+    "lush_caves",
+    "deep_dark"
+  ],
+  "spawners": {
+    "type": "mocreatures:cave_ogre_1",
+    "weight": 80,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

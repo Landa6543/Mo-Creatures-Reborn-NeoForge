@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mocreatures:block/cobblestone_wyvern",
+    "up": "mocreatures:block/cobblestone_wyvern",
+    "north": "mocreatures:block/cobblestone_wyvern",
+    "east": "mocreatures:block/cobblestone_wyvern",
+    "south": "mocreatures:block/cobblestone_wyvern",
+    "west": "mocreatures:block/cobblestone_wyvern",
+    "particle": "mocreatures:block/cobblestone_wyvern"
+  },
+  "render_type": "solid"
+}

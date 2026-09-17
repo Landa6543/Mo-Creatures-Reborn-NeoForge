@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "river",
+  "spawners": {
+    "type": "mocreatures:gold_fish",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 4
+  }
+}

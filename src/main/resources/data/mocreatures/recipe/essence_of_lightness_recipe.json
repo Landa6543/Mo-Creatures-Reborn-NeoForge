@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "cd"
+  ],
+  "key": {
+    "a": {
+      "item": "mocreatures:essence_of_fire"
+    },
+    "b": {
+      "item": "mocreatures:essence_of_darkness"
+    },
+    "c": {
+      "item": "mocreatures:essence_of_undead"
+    },
+    "d": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result": {
+    "id": "mocreatures:essence_of_lightness",
+    "count": 1
+  }
+}

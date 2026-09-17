@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mocreatures:block/mossy_cobbled_deep_wyvstone_slab"
+    },
+    "type=top": {
+      "model": "mocreatures:block/mossy_cobbled_deep_wyvstone_slab_top"
+    },
+    "type=double": {
+      "model": "mocreatures:block/mossy_cobbled_deep_wyvstone_slab_full"
+    }
+  }
+}

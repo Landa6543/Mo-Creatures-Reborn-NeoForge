@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "nether_wastes",
+    "crimson_forest"
+  ],
+  "spawners": {
+    "type": "mocreatures:fire_manticore",
+    "weight": 100,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

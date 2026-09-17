@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mocreatures:black_werewolf",
+    "mocreatures:brown_werewolf",
+    "mocreatures:fire_werewolf",
+    "mocreatures:white_werewolf"
+  ]
+}

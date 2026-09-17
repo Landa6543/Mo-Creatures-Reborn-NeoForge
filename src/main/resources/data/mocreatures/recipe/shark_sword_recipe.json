@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aba",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "mocreatures:shark_teeth"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "mocreatures:shark_sword",
+    "count": 1
+  }
+}

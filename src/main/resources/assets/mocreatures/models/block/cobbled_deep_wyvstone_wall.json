@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "mocreatures:block/cobblestone_wyvern_deep",
+    "particle": "mocreatures:block/cobblestone_wyvern_deep"
+  },
+  "render_type": "solid"
+}

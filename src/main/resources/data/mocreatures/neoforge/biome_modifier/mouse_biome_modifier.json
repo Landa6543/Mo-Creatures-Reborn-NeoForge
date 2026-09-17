@@ -1,0 +1,15 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "forest",
+    "plains",
+    "badlands",
+    "old_growth_birch_forest"
+  ],
+  "spawners": {
+    "type": "mocreatures:mouse",
+    "weight": 20,
+    "minCount": 2,
+    "maxCount": 3
+  }
+}

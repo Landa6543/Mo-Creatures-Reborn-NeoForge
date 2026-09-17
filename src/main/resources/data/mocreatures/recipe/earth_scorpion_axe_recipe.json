@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "bc"
+  ],
+  "key": {
+    "a": {
+      "item": "mocreatures:earth_scorpion_stinger"
+    },
+    "b": {
+      "item": "mocreatures:earth_chitin"
+    },
+    "c": {
+      "item": "minecraft:golden_axe"
+    }
+  },
+  "result": {
+    "id": "mocreatures:earth_scorpion_axe",
+    "count": 1
+  }
+}

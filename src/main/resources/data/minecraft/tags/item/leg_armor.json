@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "mocreatures:undead_scorpion_armor_leggings",
+    "mocreatures:frost_scorpion_armor_leggings",
+    "mocreatures:fire_scorpion_armor_leggings",
+    "mocreatures:earth_scorpion_armor_leggings",
+    "mocreatures:cave_scorpion_armor_leggings",
+    "mocreatures:ancient_silver_armor_leggings",
+    "mocreatures:reptile_armor_leggings",
+    "mocreatures:hide_armor_leggings",
+    "mocreatures:fur_armor_leggings"
+  ]
+}

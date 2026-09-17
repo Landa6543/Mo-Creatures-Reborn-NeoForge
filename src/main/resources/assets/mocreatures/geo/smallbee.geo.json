@@ -1,0 +1,116 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.SmallBee",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 1.5,
+				"visible_bounds_offset": [0, 0.25, 0]
+			},
+			"bones": [
+				{
+					"name": "Abdomen",
+					"pivot": [0, 2.5, 0],
+					"rotation": [75, 0, 0],
+					"cubes": [
+						{"origin": [-1, -0.5, -1], "size": [2, 3, 2], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "FrontLegs",
+					"pivot": [0, 2, -1.8],
+					"rotation": [5, 0, 0],
+					"cubes": [
+						{"origin": [-1, 0, -1.8], "size": [2, 2, 0], "uv": [4, 14]}
+					]
+				},
+				{
+					"name": "RAntenna",
+					"pivot": [-0.5, 3.8, -2.3],
+					"rotation": [-30.38126, 8.64917, -5.03837],
+					"cubes": [
+						{"origin": [-1, 3.8, -3.3], "size": [1, 0, 1], "uv": [0, 17]}
+					]
+				},
+				{
+					"name": "LAntenna",
+					"pivot": [0.5, 3.8, -2.3],
+					"rotation": [-30.38126, -8.64917, 5.03837],
+					"cubes": [
+						{"origin": [0, 3.8, -3.3], "size": [1, 0, 1], "uv": [0, 12]}
+					]
+				},
+				{
+					"name": "RightWing",
+					"pivot": [0, 3.6, -1],
+					"cubes": [
+						{"origin": [-1, 3.6, -0.5], "size": [2, 0, 4], "uv": [0, 17]}
+					]
+				},
+				{
+					"name": "RearLegs",
+					"pivot": [0, 1.5, -0.4],
+					"rotation": [65, 0, 0],
+					"cubes": [
+						{"origin": [-1.5, -1.5, -0.4], "size": [3, 3, 0], "uv": [8, 1]}
+					]
+				},
+				{
+					"name": "MidLegs",
+					"pivot": [0, 1.5, -1.2],
+					"rotation": [32.5, 0, 0],
+					"cubes": [
+						{"origin": [-1, -0.5, -1.2], "size": [2, 2, 0], "uv": [4, 12]}
+					]
+				},
+				{
+					"name": "Head",
+					"pivot": [0, 2.5, -2],
+					"rotation": [-115, 0, 0],
+					"cubes": [
+						{"origin": [-1, 1.5, -3], "size": [2, 1, 2], "uv": [0, 9]}
+					]
+				},
+				{
+					"name": "Mouth",
+					"pivot": [0, 2.48943, -1.97734],
+					"rotation": [-18.2489, 17.38772, 42.18626],
+					"cubes": [
+						{"origin": [0, 1.48943, -2.97734], "size": [1, 1, 1], "uv": [0, 13]}
+					]
+				},
+				{
+					"name": "Tail",
+					"pivot": [0, 2, 2],
+					"cubes": [
+						{"origin": [-0.5, 1, 2], "size": [1, 1, 1], "uv": [0, 15]}
+					]
+				},
+				{
+					"name": "FoldedWings",
+					"pivot": [0, 3.5, -1],
+					"cubes": [
+						{"origin": [-1, 3.5, -1], "size": [2, 0, 4], "uv": [0, 17]}
+					]
+				},
+				{
+					"name": "LeftWing",
+					"pivot": [0, 3.6, -1],
+					"cubes": [
+						{"origin": [-1, 3.6, -0.5], "size": [2, 0, 4], "uv": [0, 17]}
+					]
+				},
+				{
+					"name": "Thorax",
+					"pivot": [0, 3.5, -1],
+					"cubes": [
+						{"origin": [-1, 1.5, -2], "size": [2, 2, 2], "uv": [0, 5]}
+					]
+				}
+			]
+		}
+	]
+}

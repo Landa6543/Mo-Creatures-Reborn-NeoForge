@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "b b",
+    "a c"
+  ],
+  "key": {
+    "a": {
+      "item": "mocreatures:big_cat_claw"
+    },
+    "b": {
+      "item": "minecraft:leather"
+    },
+    "c": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "mocreatures:whip",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abb",
+    "bcd"
+  ],
+  "key": {
+    "a": {
+      "item": "mocreatures:frost_scorpion_stinger"
+    },
+    "b": {
+      "item": "mocreatures:frost_chitin"
+    },
+    "c": {
+      "item": "minecraft:golden_shovel"
+    },
+    "d": {
+      "item": "minecraft:golden_pickaxe"
+    }
+  },
+  "result": {
+    "id": "mocreatures:frost_scorpion_mattock",
+    "count": 1
+  }
+}

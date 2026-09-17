@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "mocreatures:block/stone_wyvern_deep",
+    "bottom": "mocreatures:block/stone_wyvern_deep",
+    "top": "mocreatures:block/stone_wyvern_deep",
+    "side": "mocreatures:block/stone_wyvern_deep"
+  },
+  "render_type": "solid"
+}

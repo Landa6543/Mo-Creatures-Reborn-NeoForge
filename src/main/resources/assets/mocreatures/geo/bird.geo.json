@@ -1,0 +1,87 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.bird",
+				"texture_width": 64,
+				"texture_height": 32,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "body",
+					"pivot": [0, 26, 0],
+					"rotation": [60.00003, 0, 0],
+					"cubes": [
+						{"origin": [-2, 12.50001, -19.45449], "size": [4, 8, 4], "uv": [0, 9]}
+					]
+				},
+				{
+					"name": "leftleg",
+					"parent": "body",
+					"pivot": [1.5, 14.60289, -19.40064],
+					"rotation": [-60, 0, 0],
+					"cubes": [
+						{"origin": [0, 11.1029, -22.57051], "size": [3, 4, 3], "uv": [26, 0]}
+					]
+				},
+				{
+					"name": "rightleg",
+					"parent": "body",
+					"pivot": [-1.5, 14.75001, -19.48558],
+					"rotation": [-60, 0, 0],
+					"cubes": [
+						{"origin": [-3, 11.25001, -22.48558], "size": [3, 4, 3], "uv": [26, 0]}
+					]
+				},
+				{
+					"name": "rwing",
+					"parent": "body",
+					"pivot": [-2, 18.11292, -14.96083],
+					"rotation": [-60, 0, 0],
+					"cubes": [
+						{"origin": [-3, 13.11292, -17.46083], "size": [1, 5, 5], "uv": [24, 13]}
+					]
+				},
+				{
+					"name": "lwing",
+					"parent": "body",
+					"pivot": [2, 18.11292, -14.96083],
+					"rotation": [-60, 0, 0],
+					"cubes": [
+						{"origin": [2, 13.11292, -17.46083], "size": [1, 5, 5], "uv": [24, 13]}
+					]
+				},
+				{
+					"name": "tail",
+					"parent": "body",
+					"pivot": [0, 12.71892, -16.00353],
+					"rotation": [-37.50002, 0, 0],
+					"cubes": [
+						{"origin": [-2, 11.94517, -16.16831], "size": [4, 1, 4], "uv": [0, 23]}
+					]
+				},
+				{
+					"name": "head",
+					"parent": "body",
+					"pivot": [0, 20.50496, -17.46771],
+					"rotation": [-60, 0, 0],
+					"cubes": [
+						{"origin": [-1.5, 20.50496, -19.46771], "size": [3, 3, 3], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "beak",
+					"parent": "head",
+					"pivot": [0, 20.50496, -17.46771],
+					"cubes": [
+						{"origin": [-0.5, 21.00496, -20.46771], "size": [1, 1, 2], "uv": [14, 0]}
+					]
+				}
+			]
+		}
+	]
+}

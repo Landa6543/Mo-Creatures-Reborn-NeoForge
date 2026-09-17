@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "mocreatures:ancient_silver_sword",
+    "mocreatures:ancient_silver_mattock",
+    "mocreatures:ancient_silver_axe",
+    "mocreatures:ancient_silver_bow",
+    "mocreatures:ninja_sai",
+    "mocreatures:ninja_katana",
+    "mocreatures:ninja_nunchaku"
+  ]
+}

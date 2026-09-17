@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "mocreatures:earth_chitin"
+    },
+    "b": {
+      "item": "minecraft:golden_chestplate"
+    }
+  },
+  "result": {
+    "id": "mocreatures:earth_scorpion_armor_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "forest",
+    "flower_forest",
+    "dark_forest",
+    "birch_forest",
+    "windswept_forest",
+    "old_growth_birch_forest",
+    "plains",
+    "sunflower_plains",
+    "savanna_plateau",
+    "savanna",
+    "windswept_savanna"
+  ],
+  "spawners": {
+    "type": "mocreatures:rat",
+    "weight": 100,
+    "minCount": 1,
+    "maxCount": 4
+  }
+}

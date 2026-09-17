@@ -1,0 +1,14 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "plains",
+    "sunflower_plains",
+    "savanna"
+  ],
+  "spawners": {
+    "type": "mocreatures:horse",
+    "weight": 20,
+    "minCount": 2,
+    "maxCount": 4
+  }
+}

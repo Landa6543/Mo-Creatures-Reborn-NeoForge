@@ -1,0 +1,12 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": {
+    "type": "neoforge:any"
+  },
+  "spawners": {
+    "type": "mocreatures:turkey",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 4
+  }
+}

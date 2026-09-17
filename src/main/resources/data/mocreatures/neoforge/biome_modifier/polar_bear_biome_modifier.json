@@ -1,0 +1,17 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "snowy_plains",
+    "snowy_taiga",
+    "snowy_beach",
+    "snowy_slopes",
+    "ice_spikes",
+    "frozen_river"
+  ],
+  "spawners": {
+    "type": "mocreatures:polar_bear",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 2
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "ab ",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "mocreatures:shark_teeth"
+    },
+    "b": {
+      "tag": "minecraft:planks"
+    },
+    "c": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "mocreatures:shark_mattock",
+    "count": 1
+  }
+}

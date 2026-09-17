@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "mocreatures:block/mossy_cobblestone_wyvern",
+    "bottom": "mocreatures:block/mossy_cobblestone_wyvern",
+    "top": "mocreatures:block/mossy_cobblestone_wyvern",
+    "side": "mocreatures:block/mossy_cobblestone_wyvern"
+  },
+  "render_type": "solid"
+}

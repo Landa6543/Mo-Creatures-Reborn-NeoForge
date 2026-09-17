@@ -1,0 +1,118 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.MoCModelTurkey",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "Head",
+					"pivot": [0, 14.3, -5.1],
+					"rotation": [27.69231, 0, 0],
+					"cubes": [
+						{"origin": [-1, 14.3, -7.1], "size": [2, 2, 3], "uv": [0, 27]}
+					]
+				},
+				{
+					"name": "Beak",
+					"parent": "Head",
+					"pivot": [0, 14.3, -5.1],
+					"rotation": [22.23373, 0, 0],
+					"cubes": [
+						{"origin": [-0.5, 15.16667, -8.46667], "size": [1, 1, 2], "uv": [17, 17]}
+					]
+				},
+				{
+					"name": "Neck",
+					"pivot": [0, 9.3, -6.5],
+					"rotation": [-12.86982, 0, 0],
+					"cubes": [
+						{"origin": [-1, 9.3, -7.5], "size": [2, 6, 2], "uv": [0, 32]}
+					]
+				},
+				{
+					"name": "Chest",
+					"pivot": [0, 11.5, -4],
+					"rotation": [34, 0, 0],
+					"cubes": [
+						{"origin": [-3, 5.5, -8], "size": [6, 6, 4], "uv": [0, 17]}
+					]
+				},
+				{
+					"name": "RWing",
+					"pivot": [-4, 10, -3],
+					"rotation": [-19.1716, 0, 0],
+					"cubes": [
+						{"origin": [-5, 6, -3], "size": [1, 6, 7], "uv": [32, 30]}
+					]
+				},
+				{
+					"name": "LWing",
+					"pivot": [4, 10, -3],
+					"rotation": [-19.1716, 0, 0],
+					"cubes": [
+						{"origin": [4, 6, -3], "size": [1, 6, 7], "uv": [48, 30]}
+					]
+				},
+				{
+					"name": "UBody",
+					"pivot": [0, 9, -3],
+					"cubes": [
+						{"origin": [-2.5, 6, -3], "size": [5, 7, 9], "uv": [34, 0]}
+					]
+				},
+				{
+					"name": "Body",
+					"pivot": [0, 8, -4],
+					"cubes": [
+						{"origin": [-4, 4, -4], "size": [8, 8, 9], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "Tail",
+					"pivot": [0, 10, 6],
+					"rotation": [-17.04142, 0, 0],
+					"cubes": [
+						{"origin": [-8, 7, 6], "size": [16, 12, 0], "uv": [32, 17]}
+					]
+				},
+				{
+					"name": "RLeg",
+					"pivot": [-2, 5, 0.5],
+					"cubes": [
+						{"origin": [-2.5, 0, 0], "size": [1, 5, 1], "uv": [27, 17]}
+					]
+				},
+				{
+					"name": "RFoot",
+					"parent": "RLeg",
+					"pivot": [-2, 5, 0.5],
+					"cubes": [
+						{"origin": [-3.5, 0, -2], "size": [3, 0, 3], "uv": [20, 23]}
+					]
+				},
+				{
+					"name": "LLeg",
+					"pivot": [2, 5, 0.5],
+					"cubes": [
+						{"origin": [1.5, 0, 0], "size": [1, 5, 1], "uv": [23, 17]}
+					]
+				},
+				{
+					"name": "LFoot",
+					"parent": "LLeg",
+					"pivot": [2, 5, 0.5],
+					"cubes": [
+						{"origin": [0.5, 0, -2], "size": [3, 0, 3], "uv": [20, 26]}
+					]
+				}
+			]
+		}
+	]
+}

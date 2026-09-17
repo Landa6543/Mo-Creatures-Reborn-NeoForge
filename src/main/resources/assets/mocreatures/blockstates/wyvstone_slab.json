@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mocreatures:block/wyvstone_slab"
+    },
+    "type=top": {
+      "model": "mocreatures:block/wyvstone_slab_top"
+    },
+    "type=double": {
+      "model": "mocreatures:block/wyvstone_slab_full"
+    }
+  }
+}

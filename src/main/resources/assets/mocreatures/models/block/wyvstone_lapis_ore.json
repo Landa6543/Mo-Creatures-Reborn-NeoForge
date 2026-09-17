@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mocreatures:block/ore_wyvern_lapis",
+    "up": "mocreatures:block/ore_wyvern_lapis",
+    "north": "mocreatures:block/ore_wyvern_lapis",
+    "east": "mocreatures:block/ore_wyvern_lapis",
+    "south": "mocreatures:block/ore_wyvern_lapis",
+    "west": "mocreatures:block/ore_wyvern_lapis",
+    "particle": "mocreatures:block/ore_wyvern_lapis"
+  },
+  "render_type": "solid"
+}

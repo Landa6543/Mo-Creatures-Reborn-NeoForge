@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "mocreatures:undead_scorpion_mattock",
+    "mocreatures:frost_scorpion_mattock",
+    "mocreatures:fire_scorpion_mattock",
+    "mocreatures:earth_scorpion_mattock",
+    "mocreatures:cave_scorpion_mattock",
+    "mocreatures:shark_mattock",
+    "mocreatures:ancient_silver_mattock"
+  ]
+}

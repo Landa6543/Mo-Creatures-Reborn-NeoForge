@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "mocreatures:wyvern_lair_biome",
+  "features": "mocreatures:wyvern_tower",
+  "step": "surface_structures"
+}

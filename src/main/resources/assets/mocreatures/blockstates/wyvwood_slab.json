@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mocreatures:block/wyvwood_slab"
+    },
+    "type=top": {
+      "model": "mocreatures:block/wyvwood_slab_top"
+    },
+    "type=double": {
+      "model": "mocreatures:block/wyvwood_slab_full"
+    }
+  }
+}

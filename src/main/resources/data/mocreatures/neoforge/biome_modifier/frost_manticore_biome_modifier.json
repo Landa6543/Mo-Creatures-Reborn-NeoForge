@@ -1,0 +1,20 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "snowy_slopes",
+    "snowy_beach",
+    "snowy_plains",
+    "snowy_taiga",
+    "ice_spikes",
+    "deep_frozen_ocean",
+    "frozen_ocean",
+    "frozen_peaks",
+    "frozen_river"
+  ],
+  "spawners": {
+    "type": "mocreatures:frost_manticore",
+    "weight": 80,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

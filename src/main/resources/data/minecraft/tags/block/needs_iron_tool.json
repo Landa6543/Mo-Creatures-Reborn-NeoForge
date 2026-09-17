@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mocreatures:wyvstone_redstone_ore",
+    "mocreatures:wyvstone_emerald_ore",
+    "mocreatures:wyvstone_gold_ore",
+    "mocreatures:wyvstone_diamond_ore"
+  ]
+}

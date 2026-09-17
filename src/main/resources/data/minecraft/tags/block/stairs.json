@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "mocreatures:mossy_cobbled_deep_wyvstone_stairs",
+    "mocreatures:cobbled_deep_wyvstone_stairs",
+    "mocreatures:deep_wyvstone_stairs",
+    "mocreatures:mossy_cobbled_wyvstone_stairs",
+    "mocreatures:cobbled_wyvstone_stairs",
+    "mocreatures:wyvstone_stairs",
+    "mocreatures:wyvwood_stairs",
+    "mocreatures:smooth_silver_sandstone_stairs",
+    "mocreatures:cut_silver_sandstone_stairs",
+    "mocreatures:silver_sandstone_stairs"
+  ]
+}

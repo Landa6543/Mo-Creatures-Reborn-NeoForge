@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "mocreatures:wyvwood_fence_gate",
+    "mocreatures:wyvwood_stairs",
+    "mocreatures:wyvwood_slab",
+    "mocreatures:wyvwood_pressure_plate",
+    "mocreatures:wyvwood_trapdoor",
+    "mocreatures:wyvwood_door",
+    "mocreatures:wyvwood_button",
+    "mocreatures:wyvwood_fence",
+    "mocreatures:wyvwood_planks"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mocreatures:block/block_fine_silver",
+    "up": "mocreatures:block/block_fine_silver",
+    "north": "mocreatures:block/block_fine_silver",
+    "east": "mocreatures:block/block_fine_silver",
+    "south": "mocreatures:block/block_fine_silver",
+    "west": "mocreatures:block/block_fine_silver",
+    "particle": "mocreatures:block/block_fine_silver"
+  },
+  "render_type": "solid"
+}

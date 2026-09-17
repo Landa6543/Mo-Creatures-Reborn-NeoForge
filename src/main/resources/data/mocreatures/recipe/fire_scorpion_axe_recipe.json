@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "bc"
+  ],
+  "key": {
+    "a": {
+      "item": "mocreatures:fire_scorpion_stinger"
+    },
+    "b": {
+      "item": "mocreatures:fire_chitin"
+    },
+    "c": {
+      "item": "minecraft:golden_axe"
+    }
+  },
+  "result": {
+    "id": "mocreatures:fire_scorpion_axe",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mocreatures:ancient_silver_ingot"
+    }
+  ],
+  "result": {
+    "id": "mocreatures:ancient_silver_nugget",
+    "count": 9
+  }
+}

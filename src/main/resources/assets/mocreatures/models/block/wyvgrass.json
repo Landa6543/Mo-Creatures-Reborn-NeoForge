@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "mocreatures:block/tall_grass_wyvern",
+    "particle": "mocreatures:block/tall_grass_wyvern"
+  },
+  "render_type": "cutout"
+}
